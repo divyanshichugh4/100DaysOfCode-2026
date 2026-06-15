@@ -6,3 +6,4 @@ for i in range(n):
     ar.append(int(input()))
     sum+=ar[i]
 print( sum )
+#Question 2 done 
